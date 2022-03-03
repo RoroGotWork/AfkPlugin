@@ -1,0 +1,8 @@
+messages:
+  afk_enabled:
+    title: "You're afk"
+    subtitle: "yes"
+  afk_disabled:
+    title: "You're not afk"
+    subtitle: "No"
+

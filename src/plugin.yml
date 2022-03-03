@@ -1,0 +1,7 @@
+name: AfkPlugin
+version: 1.0
+author: RoroGotWork
+main: fr.rorocraft.afk.AfkPlugin
+commands:
+  afk:
+    description: Enable/Disable afk mode
